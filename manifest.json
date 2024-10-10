@@ -1,0 +1,35 @@
+{
+    "name": "Bamo Recycling",
+    "short_name": "Bamo Recycling",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Bamo Recycling est une entreprise pionnière spécialisée dans le recyclage et le broyage du PET plastique, contribuant ainsi de manière significative à la préservation de l'environnement et à l'économie circulaire. Grâce à des technologies de pointe et des processus innovants, Bamo Recycling transforme les déchets de PET en produits de haute qualité, prêts à être réintégrés dans la chaîne de production. L'entreprise met l'accent sur la durabilité, l'efficacité énergétique et la réduction de l'empreinte carbone, tout en assurant la conformité avec les normes environnementales les plus strictes.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
